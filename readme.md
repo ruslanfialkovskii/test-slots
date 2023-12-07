@@ -10,6 +10,6 @@ COPY index.js ./
 CMD "node index.js"
 ```
 Fixes:
-fixed wrong base image
-fixed the problem with package.json path
-fixed wrong dependencies   inside package.json
+- fixed wrong base image
+- fixed the problem with package.json path
+- fixed wrong dependencies   inside package.json
