@@ -35,3 +35,5 @@ You have to enable addons
 
 Ingress configured as nginx-ingress so you have to install it to. 
 helm install nginx-ingress-controller  oci://registry-1.docker.io/bitnamicharts/nginx-ingress-controller
+
+Screen shots inside archive.
