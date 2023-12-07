@@ -1,0 +1,20 @@
+{
+    "name": "test-application"
+    ,
+    "version": "1.0.0"
+    ,
+    "description": "Simple Node.js app for testing"
+    ,
+    "main": "index.js"
+    ,
+    "scripts": {
+    "start": "node index.js"
+    },
+    "author": "DevOps"
+    ,
+    "license": "MIT"
+    ,
+    "dependencies": {
+    "http": "^0.0.1-security"
+    }
+    }
