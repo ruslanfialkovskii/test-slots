@@ -13,6 +13,7 @@ Fixes:
 - fixed wrong base image
 - fixed the problem with package.json path
 - fixed wrong dependencies   inside package.json
+- fixed expose and cmd start
 Fixed:
 ```
 FROM node:alpine
